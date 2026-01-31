@@ -1,4 +1,4 @@
-#  Fake News Classifier – Web Application
+#  Fake News Classifier - Web Application
 
 A **Flask-based Fake News Detection Web Application** that classifies news articles as **REAL** or **FAKE** using a Machine Learning model.  
 The system supports both **manual text input** and **live news fetching** using NewsAPI, providing predictions along with **confidence scores**.
