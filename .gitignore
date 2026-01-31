@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# ML models
+*.pkl
+
+# Datasets
+*.xlsx
+
+# Environment variables
+.env
